@@ -1,7 +1,7 @@
-# Videotutorial Nº 17 del Curso de Angular 2
-## Uso de propiedades Input y Output
+# Videotutorial Nº 19 del Curso de Angular 2
+## Proyecto completo sobre el Uso de propiedades Input y Output
 
-Ahora que ya nos hemos familiarizado con los usos de TypeScript y lo básico de componentes, seguimos ampliando la aplicación mediante el uso de propiedades Input y Output.
+Terminamos de desarrollar el proyecto que nos sirve para trabajar con las propiedades Input y Output.
 
 
 
